@@ -7,6 +7,7 @@ We can easily generate the dataset from this using this simple logic
 
 
 Query   Result
+
 141     5
 
 415     9
