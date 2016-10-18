@@ -17,3 +17,5 @@ This is done using the 1 billion pi values at https://stuff.mit.edu/afs/sipb/con
 We can make the query bigger in a wish to obtain the logic.
 
 
+The file pi_addition_rnn.py is just the modification of https://github.com/fchollet/keras/blob/master/examples/addition_rnn.py
+I modified this python code to make the same RNN in hope find the pattern in the value of pi but the model on this particular set seems to overfit the data (gives 100% accuracy on training, very less accuracy on testing data).
