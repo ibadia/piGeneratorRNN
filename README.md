@@ -4,6 +4,8 @@ This is a small experiment in which i tried to generate the suceeding value of p
 E.g: pi=3.14159265359........
 
 We can easily generate the dataset from this using this simple logic
+
+
 Query   Result
 141     5
 415     9
